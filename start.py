@@ -4,7 +4,9 @@ from random import randrange
 
 '''
 	todo:
-		1. need run automatically random(1-10) times in each 24H
+		0. add services in OS Cron or TS
+		1. run automatically random(1-10) times in each 24H
+		2. connect to git
 '''
 
 # setting
