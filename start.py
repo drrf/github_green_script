@@ -2,6 +2,11 @@ import os
 from datetime import date
 from random import randrange
 
+'''
+	todo:
+		1. need run automatically random(1-10) times in each 24H
+'''
+
 # setting
 num = 10
 rand = randrange(num) + 1
