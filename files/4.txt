@@ -1,4 +1,0 @@
-2020-10-27
-rand = 6
-This is automation github script 4
-goodbye :)
