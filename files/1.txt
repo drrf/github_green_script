@@ -1,4 +1,0 @@
-2020-11-08
-rand = 2
-This is automation github script 1
-goodbye :)
